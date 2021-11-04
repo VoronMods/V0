@@ -11,7 +11,7 @@ To insert the nuts, you need to cut it out the cylinders in the X carriage, they
 You need to print:
 - X carriage
 - Backplate
-- both A/B motor frames 
+- modded A/B motor frames to fit the 2nd rail 
 - Y end stop mount
 
 I have two Y endstop location versions, left and right, choose whatever you like, but right makes more sense for most.
