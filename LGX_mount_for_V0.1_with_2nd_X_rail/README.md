@@ -7,6 +7,10 @@ Few additional screws are needed:
 - X bumper 1x M3x10 or 1x M3x12
 - Y Bumper 1x Mx6
 
+Dragonfly BMO Cowling:
+1x 2.5x8mm
+3x 2.5x6mm
+
 Strain Relief 
 - 2x M3x8
 
@@ -38,4 +42,7 @@ You will also need 1x 150mm MGN7, I don't recommend w/o the 2nd rail, even with 
 ![PIC](LGX_4.png)
 ![PIC](LGX_1.png)
 ![PIC](LGX_2.png)
+![PIC](BMO_1.png)
+![PIC](BMO_2.png)
+![PIC](BMO_3.png)
 
