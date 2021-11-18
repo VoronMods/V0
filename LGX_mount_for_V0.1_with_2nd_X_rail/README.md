@@ -8,6 +8,9 @@ Few additional screws are needed:
 - Y Bumper 1x Mx6
 
 Dragonfly BMO Cowling:
+
+Made for 4 screws, instead of 2 as the original cowling, but you can still use 2 screws if you wish. 
+I did not test it as I don't have Dragonfly.
 - 1x 2.5x8mm
 - 3x 2.5x6mm
 
